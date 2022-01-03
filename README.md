@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 🌱 I’m currently learning python, machine_learning, deep_learning, OpenCV
 
 #### Projects 
-- 💬 [1st] Enterprise Analysis. 
-- 💬 [2nd] Bone Age Detection
-- 💬 [3rd] Pulmonary Disease Classification
+- 💬 [1st] Enterprise Analysis. [https://youtu.be/GAzX1vdpVyQ]
+
+- 💬 [2nd] Bone Age Detection. [https://youtu.be/jb-c89PaKHg]
+
+- 💬 [3rd] Pulmonary Disease Classification. [https://youtu.be/gc5cR3-ZZi8]
