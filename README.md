@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikiru328&&show_icons=true&theme=dark)
 
-🤔 Sis  & medical_DL/ML : https://github.com/@MonicaKim89 
+🤔 Sis  & medical_DL/ML : https://github.com/monicakim89
 
 🌱 I’m currently learning python, machine_learning, deep_learning, OpenCV
 
