@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 ###### 🌱 I’m currently learning python, machine_learning, deep_learning, OpenCV
 
 ###### [:notebook_with_decorative_cover:GitBlog](https://kikiru328.github.io/)
-
-
-<br/>
 <br/>
 
 ### **:muscle:Favorite Topics:muscle:** 
@@ -27,13 +24,9 @@ Here are some ideas to get you started:
 3. hospitality Management
 4. Medical Tourism
 5. Data Analysis
-
-<br/>
 <br/>
 
 🌱 I’m currently learning python, machine_learning, deep_learning, OpenCV
-
-<br/>
 <br/>
 
 ### **Projects - Done**
@@ -44,13 +37,9 @@ Here are some ideas to get you started:
    :point_right: [발표영상 :movie_camera:](https://youtu.be/gc5cR3-ZZi8)
 4. [채널톡 1:1 큐레이션 서비스: ChannelTalk 1:1 Curation Service](https://github.com/kikiru328/ChannelTalKCuration)  
 5. [컨베이어벨트 제조시스템 : Manufacturing System for conveyor system](https://github.com/kikiru328/Manufacturing_System)
- 
-
-<br/>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikiru328&theme=tokyonight&show_icons=true)
-
 <br/>
 
 ###### [🤔 Sis_github](https://github.com/monicakim89)
