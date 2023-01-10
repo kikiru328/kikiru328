@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 5. Data Analysis
 <br/>
 
-🌱 I’m currently learning python, machine_learning, deep_learning, OpenCV
-<br/>
-
 ### **Projects - Done**
 1. [구매 감소 고객 예측을 통한 마케팅 전략 제시 : Enterprise Analysis.](https://github.com/kikiru328/enterprise_analysis) :point_right: [발표영상 :movie_camera:](https://youtu.be/GAzX1vdpVyQ)
 2. [골연령 예측 - 손목, 손가락 관절 탐색 : Bone Age Detection](https://github.com/kikiru328/Bone_Detection)
