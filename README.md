@@ -31,7 +31,7 @@ Here are some ideas to get you started:
    :point_right: [발표영상 :movie_camera:](https://youtu.be/gc5cR3-ZZi8)
 2. [골연령 예측 - 손목, 손가락 관절 탐색 : Bone Age Detection](https://github.com/kikiru328/Bone_Detection)
    :point_right: [발표영상 :movie_camera:](https://youtu.be/jb-c89PaKHg)   
-3. [컨베이어벨트 제조시스템 : Manufacturing System for conveyor system](https://github.com/kikiru328/Manufacturing_System)   
+3. [컴퓨터 비전을 활용한 샐러드 제조 공정 자동화 시스템 : Salad Manufacturing Process Automation System Using AI and Computer Vision](https://github.com/kikiru328/Manufacturing_System)   
 4. [채널톡 1:1 큐레이션 서비스: ChannelTalk 1:1 Curation Service](https://github.com/kikiru328/ChannelTalKCuration)  
 5. [구매 감소 고객 예측을 통한 마케팅 전략 제시 : Enterprise Analysis.](https://github.com/kikiru328/enterprise_analysis) :point_right: [발표영상 :movie_camera:](https://youtu.be/GAzX1vdpVyQ)
 
