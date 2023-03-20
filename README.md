@@ -40,7 +40,6 @@ Here are some ideas to get you started:
 
 #### In progress
 1. 23.03.20~ : NLP / Data Analysis
-3. 23.03.17~ : Generative AI hackerton
 
 
 <br/>
