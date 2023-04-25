@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 ###### [:notebook_with_decorative_cover:GitBlog](https://kikiru328.github.io/)
 <br/>
 
-
-
 ### Projects
 1. [컴퓨터 비전을 활용, 샐러드 제조 공정 자동화 시스템 : Manufacturing Process Automation System](https://github.com/kikiru328/Manufacturing_System)   
 2. [흉부 폐질환 진단 및 분류 : Pulmonary Disease Classification](https://github.com/Pleasant-riot/Lung-Disease-Detection)
