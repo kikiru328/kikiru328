@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 #### In progress
 1. 23.03.20~ : NLP / Data Analysis
-
+2. 23.09.27~ : Labeling parttime
  
 <br/>
 
