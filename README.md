@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### **:muscle:Favorite Topics:muscle:** 
 1. Medical Images
 2. Manufacturing Image
-3. hospitality Management
+3. hospitality Management 
 4. Medical Tourism
 5. Data Analysis 
 <br/>  
