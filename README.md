@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 4. Medical Tourism
 5. Data Analysis 
 <br/>  
-
+ 
 -->
 ###### 🌱 I’m currently learning python, machine_learning, deep_learning, OpenCV
 
