@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 2. Manufacturing Image
 3. hospitality Management 
 4. Medical Tourism
-5. Data Analysis 
+5. Data Analysis  
 <br/>  
  
 -->
