@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 4. [구매 감소 고객 예측을 통한 마케팅 전략 제시 : Enterprise Analysis.](https://github.com/kikiru328/enterprise_analysis) :point_right: [발표영상 :movie_camera:](https://youtu.be/GAzX1vdpVyQ)
 5. [채널톡 1:1 큐레이션 서비스: ChannelTalk 1:1 Curation Service](https://github.com/kikiru328/ChannelTalKCuration)
 
-#### In progress
-1. 23.03.20~ : NLP / Data Analysis
-2. 23.09.27~ : Labeling parttime
+
  
 <br/>
 
