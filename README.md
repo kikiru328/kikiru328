@@ -3,7 +3,8 @@
 **kikiru328/kikiru328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
 Here are some ideas to get you started:
-  
+
+이직준비.>!
 - 🔭 
 - 🌱 I’m currently learning python, machine_learning, deep_learning, OpenCV
 - 👯 
