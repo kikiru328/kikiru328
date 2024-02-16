@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 이직준비.>!  
 - 🔭 
 - 🌱 I’m currently learning python, machine_learning, deep_learning, OpenCV
-- 👯 
+- 👯    
 - 🤔 
 - 💬  
 - 📫 How to reach me: ...
