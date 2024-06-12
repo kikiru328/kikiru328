@@ -53,7 +53,7 @@ Welcome to my GitHub profile!
 ---
 
 🔭 **I'm in between jobs and open to opportunities!**
-🤔 **[Portfolio](https://danielkim328.notion.site/aaed8dc76adb41659034f13d3242edc7?pvs=4)
+🤔 **[Portfolio](https://danielkim328.notion.site/aaed8dc76adb41659034f13d3242edc7?pvs=4)**
 ---
 
 ![Kikiru328's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikiru328&theme=tokyonight&show_icons=true)
