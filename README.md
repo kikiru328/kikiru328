@@ -52,7 +52,7 @@ Welcome to my GitHub profile!
 
 ---
 
-🔭 **I'm in between jobs and open to opportunities!**
+🔭 **I'm in between jobs and open to opportunities!**  
 🤔 **[Portfolio](https://danielkim328.notion.site/aaed8dc76adb41659034f13d3242edc7?pvs=4)**
 ---
 
