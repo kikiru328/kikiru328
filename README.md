@@ -7,7 +7,8 @@
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=badgebadge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Sqlalchemy-D71F00?style=badge&logo=sqlalchemy&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=badge&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=badge&logo=obsidian&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=badge&logo=notion&logoColor=white"/>  
 
 #### Profile
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kikiru328)](https://solved.ac/kikiru328) <a href="https://maylog.xyz"><img src="https://img.shields.io/badge/Maylog.xyz-17541F?style=badge&logo=bloglovin&logoColor=white"/></a> <a href="[https://maylog.xy](https://kikiru328-portfolio.netlify.app/)z"><img src="https://img.shields.io/badge/Portfolio-212121?style=badge&logo=pagekit&logoColor=white"/></a>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kikiru328)](https://solved.ac/kikiru328) <a href="https://maylog.xyz"><img src="https://img.shields.io/badge/Maylog.xyz-17541F?style=badge&logo=bloglovin&logoColor=white"/></a>
+<a href="https://kikiru328-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-212121?style=badge&logo=pagekit&logoColor=white"/></a>
 
 
 <details>
