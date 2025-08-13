@@ -16,6 +16,7 @@
 
 | 기간 | 프로젝트 | Repository | Project Description | 
 |---------|------| ---- | ---|
+| 25.06 - 25.08 | AI 학습 플랫폼, "LLEARN" |  [:open_file_folder:repository](https://github.com/kikiru328/LLearn) | Now I'm working on it | 
 | 24.09 - 25.03 | 온프레미스 LLM + RAG 시스템 | [:open_file_folder:repository](https://github.com/kikiru328/RAG-LLM) | [:link:Project Description](https://kikiru328-portfolio.netlify.app/project_docs/rag_llm/) |
 | 23.03 - 24.04 | EMR 기반 질환 예측 시스템 | :x: There is NO Repository, Sry :cry: | [:link:Project Description](https://kikiru328-portfolio.netlify.app/project_docs/emr_prediction/) |
 | 23.03 - 24.04 | 3D 의료영상 진단 모델 성능 평가 자동화 시스템 |:x: There is NO Repository, Sry :cry:| [:link:Project Description](https://kikiru328-portfolio.netlify.app/project_docs/model_evaluation/)|
